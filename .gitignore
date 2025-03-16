@@ -16,3 +16,4 @@ venv.bak/
 constants.py
 raw/*
 ignores/*
+.ropeproject

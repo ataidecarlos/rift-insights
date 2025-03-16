@@ -1,7 +1,8 @@
 import constants, sql_utils
+import time
 import json
 import requests
-import time
+
 
 APIKEY: str = constants.RIOT_API
 
